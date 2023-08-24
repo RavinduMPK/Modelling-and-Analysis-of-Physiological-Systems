@@ -5,7 +5,8 @@ Welcome to the computer laboratory exploring the time-independent electrical pro
 ## Introduction
 
 This computer laboratory aims to provide insights into the electrical behavior of branched cables, which are commonly used to model the electrical properties of neuronal structures like axons and dendrites. We will be utilizing MATLAB for simulation and analysis purposes to explore these properties.
-![image](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/c077e383-a919-4b7a-b515-456dd0d18610)
+
+![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/c7e51568-6b17-43a7-8f48-3d26cd1e5a79)
 
 
 ## Simulation Setup
