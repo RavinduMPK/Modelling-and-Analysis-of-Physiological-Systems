@@ -7,7 +7,8 @@ This repository contains an analysis of respiratory mechanics simulation using a
 This analysis focuses on using the simulation tool to explore respiratory mechanics in different conditions. By simulating normal and diseased respiratory scenarios, we aim to understand the impact of various pulmonary conditions on minute ventilation and ventilation patterns.
 
 ### Simulation Tool
-![image](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/9940a14a-8b31-4f95-ba42-7e69cc44f666)
+![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/a185d225-d145-4bdc-bfad-f7382b043fe6)
+
 
 The simulation tool used in this analysis is a GUI-based application developed on Simulink. The tool allows users to simulate respiratory mechanics under different conditions and provides visualizations of ventilation patterns and minute ventilation. The simulator is designed to help users comprehend how respiratory mechanics change in response to different scenarios.
 The simulator was developed by David Leonardo Rodriguez Sarmiento and Daniela Acevedo Guerrero (2020).
