@@ -7,7 +7,8 @@ This repository contains an analysis of cardiac physiological systems using simu
 This analysis involves using simulation software to explore and understand the physiological parameters and dynamics of the heart's functioning. The simulation provides graphical representations of key cardiac variables, allowing us to analyze phenomena such as valve opening and closing, blood flow patterns, pressure-volume relationships, and the effects of aortic valve stenosis.
 
 ### Simulation Software
-![image](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/3f0fe40e-663a-4ac2-ba48-49dcaf91336c)
+![CricAdapt](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/65d16899-3d8e-4de2-acc2-d08cb71d97ce)
+
 
 The CircAdapt model enables simulation of blood pressures, volumes, and flows in heart and circulation on a beat-to-beat basis. Initially, this model was designed for teaching purposes, showing the importance of the physical laws of mechanics and fluid dynamics in understanding cardiovascular physiology. While designing the model, the developers have paid serious attention to the maintenance of the following properties:
 - The model is easy to use
